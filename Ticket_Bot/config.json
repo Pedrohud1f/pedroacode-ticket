@@ -1,0 +1,17 @@
+{
+    "client": {
+        "token": ""
+    },
+    "embeds_color": {
+        "embed_primary": "#ff00ff",
+        "embed_invisible": "#2f3136",
+        "embed_success": "#00ff00",
+        "embed_error": "#ff0000"
+    },
+    "ticket": {
+        "category_id": "",
+        "category_call_id": "",
+        "support_role": "",
+        "channel_logs": ""
+    }
+}
