@@ -1,1 +1,1 @@
-# pedroacode-ticket
+Sistema de Ticket via discord, o sistema é um projeto meu, para ajudar na questão de atendimento no servidor (com sistemas de logs), foi feito na v14.14 algumas API's utilizadas podem ter sido atulizadas.
